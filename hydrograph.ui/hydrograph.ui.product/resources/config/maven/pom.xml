@@ -22,11 +22,11 @@
 	<!-- Add urls of Nexus/Artifactory in <url></url> tag -->
 		<repository>
 			<id>mavenRepo</id>
-			<url></url>
+			<url/>
 		</repository>
 		<repository>
 			<id>mavenRepo1</id>
-			<url></url>
+			<url/>
 		</repository>
 		<repository>
 			<id>mavenRepo2</id>
@@ -621,7 +621,7 @@
 		<dependency>
 			<groupId>com.amazonaws</groupId>
 			<artifactId>aws-java-sdk-core</artifactId>
-			<version>1.11.18</version>
+			<version>1.12.783</version>
 		</dependency>
 
 		<dependency>
